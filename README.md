@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @rukiazuk
-- 👀 I’m interested in videogames, cars and motorbikes
-- 🌱 I’m currently learning Python Selenium
+- 👀 Simracing, videogames, real cars and motorbikes
 
 
 <!---
